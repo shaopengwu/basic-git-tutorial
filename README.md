@@ -18,6 +18,7 @@ Fast-forward
  README.md | 15 ++++++++++++++-
  1 file changed, 14 insertions(+), 1 deletion(-)
 
+The line was added by another contributor to the project and will create a merge conflict.
 
 
 # Reference
